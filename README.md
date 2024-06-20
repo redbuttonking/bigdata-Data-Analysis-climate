@@ -29,4 +29,4 @@
 <img src="슬라이드20.PNG" height = "400" width="700">
 
 
-<details>
+</details>
